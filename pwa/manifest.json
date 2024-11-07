@@ -1,0 +1,29 @@
+{
+    "name": "Travis Scott Page",
+    "short_name": "LaFlame",
+    "description": "Resumen de Travis Scott",
+    "background_color": "#ff4500",
+    "theme_color": "#ff4500",
+    "orientation": "portrait",
+    "display": "standalone",
+    "start_url": "./?utm_source=web_app_manifest",
+    "scope": "./",
+    "lang": "es-MX",
+    "icons": [
+        {
+          "src": "../img/icons/iconts.png",
+          "sizes": "512x512",
+          "type": "image/png"
+        },
+        {
+            "src": "../img/icons/iconts1.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "../img/icons/iconts2.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        }
+    ]
+  }
